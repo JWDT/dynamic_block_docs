@@ -144,7 +144,7 @@ You can use `url`, `flow`, `node` and `buy` buttons with list message. The numbe
 You can use buttons with each types: `call`, `url`, `share`, `flow`, `node`, `buy`.
 You can provide custom action to be performed with the button.  
 Actions can only be attached to `url`, `flow` and `node` button types.
-Actions for buttons must comply with same format and restrictions as described in [Actions format](#actions-format) bellow
+Actions for buttons must comply with same format and restrictions as described in [Actions format](#actions-format) below
 
     {
         "buttons": [
